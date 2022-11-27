@@ -14,11 +14,12 @@
 * Anything other than the 6 items above are objects. Primitive cannot be modified, however, objects can. The `for in` loop can be used to iterate through an object.
 
 ## Functions
-* Functions as Objects: FINISH WRITING ABOUT THIS
-* Anonymous Functions: FINISH WRITING ABOUT THIS
-* Arrow Functions: FINISH WRITING ABOUT THIS
-* First Class Functions: FINISH WRITING ABOUT THIS
-* Callback Functions: FINISH WRITING ABOUT THIS
+* `Functions as Objects`: Can be stored in variables and passed around. Can also do everything that other objects can do (like having properties assigned to them)
+* `Anonymous Functions`: Unamed or unassigned (to a variable) functions
+* `Arrow Functions`: Anonymous one liner functions
+* `First Class Functions`: An object (function) with no restrictions on its creation, destruction, or usage. This includes the ability to be passed as an argument, returned from a function, and assigned to a variable
+* `Callback Functions`: Functions that are a parameter of a function. Functions that take in callbacks are referred to as `Higher Order Functions`
+* `Closures`: When a function retains the context of a parent function, we call that a "closure". There is also an alternative approach of an immediately-invoked function expression (IIFE) to achieve a similar result. Although, it has some limitations.
 
 ## Vim
 * Although, I don't understand that point of this software or what it does the main modes of Vim are edit (pressing `i`) and command (by default or pressing `esc`).
@@ -37,4 +38,4 @@
 * [Sales Tax](https://gist.github.com/IrhaAli/87aca2eb86a5df67c2addcd711b6e898)
 * [Social Network Analysis](https://gist.github.com/IrhaAli/7c6cd1c3d41ae4970b6fec9bd68de32c)
 * [Sort](https://gist.github.com/IrhaAli/3ff30bb85229842bf0b205c5abccfdab)
-* CLOSURES PROBLEMS (FINISH WRITING ABOUT THIS)
+* [Closure Problems](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w2/activities/238?journey_step=30&workbook=5) (MakeLoadedDie, CountdownGenerator, WrapLog)
