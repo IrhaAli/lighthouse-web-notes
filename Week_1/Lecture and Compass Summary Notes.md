@@ -1,4 +1,4 @@
-# Week 1 Compass Summary Notes
+# Week 1 Summary Notes
 ## How to Approach a Problem
 * Step 1: Fully understand the problem
 * Step 2: Start with pseudocode as a way to break down the problem

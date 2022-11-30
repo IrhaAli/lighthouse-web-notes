@@ -1,4 +1,5 @@
-# Week 2 Compass Summary Notes
+# Week 2 Summary Notes
+## Primitive and Objects
 * Primitive Types in Javascript
   * undefined
   * null
@@ -6,19 +7,32 @@
   * string
   * number
   * symbol
+* Primitives are immutable. Everythign that isn't primitive is an object.
 * Objects
-  * Contain key-value pairs; each key maps to a value.
-  * Contain keys which are always strings (or symbols, but it's less common and not important right now).
-  * Have unique keys; the same key cannot appear twice in an object.
+  * Contain key-value pairs; each key maps to a value
+  * Contain keys which are always strings (or symbols, but it's less common and not important right now)
+  * Have unique keys; the same key cannot appear twice in an object
   * Have their keys point to values which can be of any type.
+  * Object doesn't have a length property
+  * Objects have this. keyword to help avoid hard coding
 * Anything other than the 6 items above are objects. Primitive cannot be modified, however, objects can. The `for in` loop can be used to iterate through an object.
+* `Passing reference` changes the original data. This occurs usually for objects
+* `Passing value` creates a new piece of data and the original isn't changed. This occurs usually for primitives 
+
+## Object Oriented Programming vs Function Focused Programming
+* Regardless of the type of programming the code shoult always be `DRY` - Don't Repeat Yourself.
+* Your code should also always run from top to bottom. Function declaration doesn't follow that rule which is why function expression is recommended more.
 
 ## Functions
-* `Functions as Objects`: Can be stored in variables and passed around. Can also do everything that other objects can do (like having properties assigned to them)
+* `Functions as Objects`: Can be stored in variables and passed around. Can also do everything that other objects can do (like having properties assigned to them). You can modify functions like you can variables. That's why they're called first class objects. You can pass functions are arguments and also return (this is a lot like function composition aka function invocation) them.
+* `Single Responsibility Principle` says that a function should always do one thing..
+* `Function Declaration` is when the function isn't assigned a variable. The benefit is that `this` can be used.
+* `Function Expression` is when the function is assigned a variable. Always try to use this one.
 * `Anonymous Functions`: Unamed or unassigned (to a variable) functions
 * `Arrow Functions`: Anonymous one liner functions
 * `First Class Functions`: An object (function) with no restrictions on its creation, destruction, or usage. This includes the ability to be passed as an argument, returned from a function, and assigned to a variable
 * `Callback Functions`: Functions that are a parameter of a function. Functions that take in callbacks are referred to as `Higher Order Functions`
+* `Inline Function`: A callback function that is coded inside the parameter of the first class function. A lot of times anonymous functions are used for inline functions. Anonymous arrow functions made them more succinct.
 * `Closures`: When a function retains the context of a parent function, we call that a "closure". There is also an alternative approach of an immediately-invoked function expression (IIFE) to achieve a similar result. Although, it has some limitations.
 
 ## Vim
