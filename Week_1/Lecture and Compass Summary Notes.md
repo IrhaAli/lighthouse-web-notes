@@ -28,11 +28,11 @@
 * The === checks if the two values on each side are equal whereas the == coerces one to the other type then compares them. For more information read [this](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w1/activities/180?journey_step=29&workbook=4).
 
 ## Problems of this week
+* [Lotide](https://github.com/IrhaAli/lotide) (AssertEqual, Head, Tail, EqArrays, AssertArraysEqual, WIthout, Flatten, Middle)
 * [What's for lunch](https://gist.github.com/IrhaAli/fbb13fa06907a717ecf6515be8002f44)
 * [Adding Numbers](https://gist.github.com/IrhaAli/a58011d560fd3a8ab293e221a0972a8d)
 * [Reverse a String](https://gist.github.com/IrhaAli/d2fb6316353f21fe22a9f8a78281ac6f)
 * [Pig Latin Translator](https://gist.github.com/IrhaAli/e433251043f21a077abfd77c5a8b449a)
-* [Lotide](https://github.com/IrhaAli/lotide) (AssertEqual, Head, Tail, EqArrays, AssertArraysEqual, WIthout, Flatten, Middle)
 * [Minimum Values](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w1/activities/170?journey_step=29&workbook=4)
 * [Joining Concepts](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w1/activities/173?journey_step=29&workbook=4)
 * [Rolling Dice](https://gist.github.com/IrhaAli/0d3bb166c8dc4aa0124a15836dee300f)
