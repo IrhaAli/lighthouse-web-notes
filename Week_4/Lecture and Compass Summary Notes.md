@@ -1,4 +1,10 @@
 # Week 3 Summary Notes
+## Asynchronous Code
+* [Async Control Flow](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w4/activities/2073?journey_step=32&workbook=7)
+* Functions that return something and have async code always return undefined immediately because the async work hasn't been completed. Click here to understand [async return values](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w4/activities/394?journey_step=32&workbook=7)
+* There's setTimout() and setInterval() option. The setTimeout() executes the code after a specified time. The setInterval() executes the code repeatedly after a specified time. To get out of setInterval() use ctrl + c.
+* For data fetching, it's better to do it async.
+
 
 ## Problems of this week
 * [Lotide](https://github.com/IrhaAli/lotide) (Count Only, CountLetters, LetterPositions, FindKeyByValue, EqualObjects, AssertObjectsEqual, Map, TakeUntil, FindKey)

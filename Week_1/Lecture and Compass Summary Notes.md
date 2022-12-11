@@ -16,7 +16,7 @@
     *   Another single task could be to perform a side effect such as logging a message to the screen (eg: `printFarmInventory`)
 5.  It is ideal if functions try to avoid reading outer scope variables. If a function needs some information / data, then that data should instead be passed in as a parameter, making it available within the function's _inner scope_.
 
-## Scope in Javascript
+## Variable Scope in Javascript
 * `Block (Local) Scope Variables`: wrong block scope variable will lead to many variable declaration of the same variable (ie redundancy)
 * `Global Scope Variables`: Too many will fill up the global namespace storage
 
