@@ -9,10 +9,16 @@ This repository contains all of the notes taken by [Irha](https://github.com/Irh
   * [VS Code](/Shortcuts/VS_Code.md)
 
 * [Week 1](/Week_1/)
-  * [Lecture and Compass Summary Notes](/Week_1/Lecture%20and%20Compass%20Summary%20Notes.md)
+  * [Lecture and Compass Summary Notes](/lighthouse-web-notes/Week_1/Lecture%20and%20Compass%20Summary%20Notes.md)
 
 * [Week 2](/Week_2/)
-  * [Lecture and Compass Summary Notes](/Week_2/Lecture%20and%20Compass%20Summary%20Notes.md)
+  * [Lecture and Compass Summary Notes](/lighthouse-web-notes/Week_2/Lecture%20and%20Compass%20Summary%20Notes.md)
 
 * [Week 3](/Week_3/)
-  * [Lecture and Compass Summary Notes](/Week_3/Lecture%20and%20Compass%20Summary%20Notes.md)
+  * [Lecture and Compass Summary Notes](/lighthouse-web-notes/Week_3/Lecture%20and%20Compass%20Summary%20Notes.md)
+
+* [Week 4](/Week_4/)
+  * [Lecture and Compass Summary Notes](/lighthouse-web-notes/Week_4/Lecture%20and%20Compass%20Summary%20Notes.md)
+
+* [Week 5](/Week_5/)
+  * [Lecture and Compass Summary Notes](/lighthouse-web-notes/Week_5/Lecture%20and%20Compass%20Summary%20Notes.md)

@@ -14,6 +14,7 @@ It offers several benefits over manual testing:
   * it acts as documentation (readings tests is a great way to learn about how code is meant to be used)
   * it improves the quality of our code (writing code that is easy to test often requires us to change how our code is structured -- for the better)
 * `Unit Testing:` Devide and test software into smaller units. The reason for using unit testing is that the code gets more and more complicated to keep track of all the ways we need to test it.
+* A good reason for writing tests is that it allows us to make our code more modular.
 
 ## Debugging
 ### Troubleshooting tips

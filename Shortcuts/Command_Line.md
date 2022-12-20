@@ -23,3 +23,4 @@
 | \W | Basename of current directory |
 | \d | Current date |
 | \n | Newline |
+| cmd + t | New terminal tab |
