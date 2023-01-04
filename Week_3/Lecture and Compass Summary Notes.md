@@ -1,4 +1,6 @@
 # Week 3 Summary Notes
+##  Instructors Notes and/or Videos
+* Lec 01: [Notes](https://github.com/DevHalpin/lectures2022/tree/main/flex/14_11_Eve/mod1/w03/TDD_with_Mocha_Chai) and [Video](https://vimeo.com/776449131/e17278b95f)
 ## Testing
 * Use assert library to do in depth testing.
 * `To import a function/library:` The file will need to be required via the following syntax const functionName/libraryName = require('filepath').

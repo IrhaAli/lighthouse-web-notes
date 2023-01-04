@@ -1,4 +1,6 @@
 # Week 4 Summary Notes
+##  Instructors Notes and/or Videos
+* Lec 01: [Notes](https://github.com/DevHalpin/lectures2022/tree/main/flex/14_11_Eve/mod1/w04/async_control_flow) and [Video](https://vimeo.com/778715134/13db3c9f9f)
 ## Asynchronous Code
 * [Async Control Flow](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w4/activities/2073?journey_step=32&workbook=7)
 * Functions that return something and have async code always return undefined immediately because the async work hasn't been completed. Click here to understand [async return values](https://flex-web.compass.lighthouselabs.ca/workbooks/flex-m01w4/activities/394?journey_step=32&workbook=7)

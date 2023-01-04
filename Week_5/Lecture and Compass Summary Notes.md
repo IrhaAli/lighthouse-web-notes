@@ -1,4 +1,7 @@
 # Week 5 Summary Notes
+##  Instructors Notes and/or Videos
+* Lec 01: [Notes](https://github.com/DevHalpin/lectures2022/tree/main/flex/14_11_Eve/mod2/w05/networking_with_tcp) and [Video](https://vimeo.com/780959456/407cf7cd68)
+* Lec 02: [Video](https://vimeo.com/782137560/a52012fbc0?embedded=true&source=video_title&owner=147384195)
 ## Networking
 * Computer networking is like human networking. It's like phone calls.
 * `TCP (Transmission Control Protocol)`: Allows for the machine to speak to each other until one or both end the connection. TCP is language agnostic (ie. Javascript can talk to Python).

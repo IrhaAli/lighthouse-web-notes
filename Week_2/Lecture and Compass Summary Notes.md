@@ -1,4 +1,7 @@
 # Week 2 Summary Notes
+##  Instructors Notes and/or Videos
+* Lec 01: [Notes](https://github.com/DevHalpin/lectures2022/tree/main/flex/14_11_Eve/mod1/w02/objects) and [Video](https://vimeo.com/774068202/da86cc3e9b?embedded=false&source=video_title&owner=147384195)
+* Lec 02: [Video](https://vimeo.com/775355309/310b9cab67?embedded=true&source=video_title&owner=147384195)
 ## Primitive and Objects
 * Primitive Types in Javascript
   * undefined
