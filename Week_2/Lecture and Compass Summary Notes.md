@@ -23,11 +23,11 @@
 * `Passing value` creates a new piece of data and the original isn't changed. This occurs usually for primitives 
 
 ## Object Oriented Programming vs Function Focused Programming
-* Regardless of the type of programming the code shoult always be `DRY` - Don't Repeat Yourself.
+* Regardless of the type of programming the code should always be `DRY` - Don't Repeat Yourself.
 * Your code should also always run from top to bottom. Function declaration doesn't follow that rule which is why function expression is recommended more.
 
 ## Functions
-* `Functions as Objects`: Can be stored in variables and passed around. Can also do everything that other objects can do (like having properties assigned to them). You can modify functions like you can variables. That's why they're called first class objects. You can pass functions are arguments and also return (this is a lot like function composition aka function invocation) them.
+* `Functions as Objects`: Can be stored in variables and passed around. Can also do everything that other objects can do (like having properties assigned to them). You can modify functions like you can variables. That's why they're called first class objects. You can pass functions as arguments and also return (this is a lot like function composition aka function invocation) them.
 * `Single Responsibility Principle` says that a function should always do one thing..
 * `Function Declaration` is when the function isn't assigned a variable. The benefit is that `this` can be used.
 * `Function Expression` is when the function is assigned a variable. Always try to use this one.
